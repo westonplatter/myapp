@@ -2,7 +2,7 @@
 
 ## todos
 todos
-- [ ] install bootstrap with webpack
+- [x] install bootstrap with webpack
 - [ ] install devise
 - [ ] install rolify
 - [ ] decide on // setup email
