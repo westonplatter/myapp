@@ -5,7 +5,7 @@ todos
 - [x] install bootstrap with webpack
 - [x] install devise
 - [x] install rolify
-- [ ] decide on // setup email
+- [x] decide on // setup email
 - [ ] create landing page
 - [ ] create authenticated page
 - [ ] create admin authenticated page
