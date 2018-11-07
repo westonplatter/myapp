@@ -3,7 +3,7 @@
 ## todos
 todos
 - [x] install bootstrap with webpack
-- [ ] install devise
+- [x] install devise
 - [ ] install rolify
 - [ ] decide on // setup email
 - [ ] create landing page

@@ -9,4 +9,7 @@
 
 console.log('Hello World from Webpacker')
 
+const Rails = require('rails-ujs');
+Rails.start();
+
 import 'bootstrap/dist/js/bootstrap';
