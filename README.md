@@ -6,7 +6,7 @@ todos
 - [x] install devise
 - [x] install rolify
 - [x] decide on // setup email
-- [ ] create landing page
+- [x] create landing page
 - [ ] create authenticated page
 - [ ] create admin authenticated page
 - [ ] enable users to sign in
