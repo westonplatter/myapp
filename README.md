@@ -13,9 +13,9 @@ todos
 - [x] enable admins to sign in
 - [x] enable users to create orgs
 - [x] install rspec
-- [ ] setup tests
-  - [ ] unit tests
-  - [ ] feature tests
+- [x] setup tests
+  - [x] unit tests
+  - [x] feature tests
 
 ## dev
 
