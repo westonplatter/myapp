@@ -12,7 +12,7 @@ todos
 - [x] enable users to sign in
 - [x] enable admins to sign in
 - [x] enable users to create orgs
-- [ ] install rspec
+- [x] install rspec
 - [ ] setup tests
   - [ ] unit tests
   - [ ] feature tests
