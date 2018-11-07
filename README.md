@@ -7,8 +7,8 @@ todos
 - [x] install rolify
 - [x] decide on // setup email
 - [x] create landing page
-- [ ] create authenticated page
-- [ ] create admin authenticated page
+- [x] create authenticated page
+- [x] create admin authenticated page
 - [ ] enable users to sign in
 - [ ] enable admins to sign in
 - [ ] enable users to create orgs

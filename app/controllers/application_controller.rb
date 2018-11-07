@@ -1,8 +1,8 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
-  # include Pundit
-  #
+  include Pundit
+
   # layout :layout_by_resource
   #
   # def after_sign_in_path_for(resource)
@@ -23,13 +23,9 @@ class ApplicationController < ActionController::Base
 
   def layout_by_resource
     if devise_controller?
-      return "devise"
+      "devise"
+    else
+      "application"
     end
-    # elsif(self.class == LandingPageController)
-    #   "application"
-    # elsif(current_user)
-    #   "dashboard"
-    # end
-    "application"
   end
 end
