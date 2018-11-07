@@ -11,7 +11,7 @@ todos
 - [x] create admin authenticated page
 - [x] enable users to sign in
 - [x] enable admins to sign in
-- [ ] enable users to create orgs
+- [x] enable users to create orgs
 - [ ] install rspec
 - [ ] setup tests
   - [ ] unit tests
