@@ -9,5 +9,7 @@ Rails.application.routes.draw do
     resources :users
   end
 
+  resources :plans
+
   root 'landing_page#index'
 end
