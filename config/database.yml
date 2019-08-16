@@ -7,14 +7,11 @@ default: &default
 
 development:
   <<: *default
-  database: v2mom_development
+  database: tjx_development
 
 test:
   <<: *default
-  database: v2mom_test
+  database: tjx_test
 
 production:
-  <<: *default
-  database: v2mom_production
-  username: postgres
-  password: <%= ENV['MYAPP_DATABASE_PASSWORD'] %>
+  url: <%= ENV["DATABASE_URL"] %>
