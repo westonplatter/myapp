@@ -15,6 +15,7 @@ gem 'rolify'
 gem 'mailgun-ruby'
 gem "figaro"
 gem "pundit"
+gem "simple_form"
 
 group :development do
   gem 'pry'
